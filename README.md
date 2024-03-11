@@ -61,4 +61,4 @@ Aqui algunos ID de prueba con descuentos registrados en el servicio externo de h
  * bdc942cf-da46-4721-9438-4a41bd8524a6
  * 8e49a9f5-f75a-4c7e-80b1-b9a1aeafcad1
 
-Para los nuevos registros que se cree con el endpoint Insert(POST) el descuento siempre será 0.  
+Para los nuevos registros que se creen con el endpoint Insert(POST) el descuento siempre será 0.  
